@@ -1,0 +1,30 @@
+{
+    "servers": [
+        {
+            "ip": "51.75.232.71",
+            "port": "1149",
+            "x2": false,
+            "name": "HORIZON",
+            "online": 1,
+            "maxOnline": 50,
+            "maintenance": false,
+            "maintenance_text": "",
+            "server_type": "Classic",
+            "server_name_color": "#ffffff",
+            "server_background_color": "#1e88e5"
+        },
+        {
+            "ip": "195.18.27.241",
+            "port": "1392",
+            "x2": true,
+            "name": "test_dh_ruloc",
+            "online": 1,
+            "maxOnline": 50,
+            "maintenance": false,
+            "maintenance_text": "",
+            "server_type": "test",
+            "server_name_color": "#ffffff",
+            "server_background_color": "#1e88e5"
+        }
+    ]
+}
